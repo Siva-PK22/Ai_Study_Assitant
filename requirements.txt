@@ -1,0 +1,5 @@
+streamlit
+together
+requests
+speechrecognition
+pillow
