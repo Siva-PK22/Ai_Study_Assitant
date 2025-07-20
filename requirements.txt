@@ -1,5 +1,8 @@
 streamlit
 together
-requests
 speechrecognition
-pillow
+easyocr
+torch
+torchvision
+numpy
+Pillow
